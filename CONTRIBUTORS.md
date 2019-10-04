@@ -1,5 +1,5 @@
 #### Name: ASHISH JOSHI](https://github.com/joshi1411)
-- Place: India
+- Place: Himachal Pradesh,India
 - Bio: Electronics Engineer
 - GitHub: [joshi1411](https://github.com/joshi1411)
 
