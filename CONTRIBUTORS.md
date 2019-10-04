@@ -1,3 +1,9 @@
+#### Name: ASHISH JOSHI](https://github.com/joshi1411)
+- Place: India
+- Bio: Electronics Engineer
+- GitHub: [joshi1411](https://github.com/joshi1411)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
